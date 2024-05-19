@@ -1,7 +1,7 @@
 # Hi there 👋
-### 🙃 | About me: I am a young programmer who started a 24/7 Minecraft server bot project in 2021, igniting my passion for website development and gaming.
-### 😄 | Pronous: He/Him
-### 💻 | [My website](https://buoya42.github.io)
+### > 🙃 | About me: I am a young programmer who started a 24/7 Minecraft server bot project in 2021, igniting my passion for website development and gaming.
+### > 😄 | Pronous: He/Him
+### > 💻 | [My website](https://buoya42.github.io)
 <!--
 **buoya42/buoya42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
