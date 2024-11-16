@@ -2,6 +2,7 @@
 ### > 🙃 About: He's a young programmer who started a 24/7 Minecraft server bot project in 2021, igniting his passion for website development and gaming.
 ### > 😄 Pronous: He/Him
 ### > 💻 [Website](https://buoya42.github.io)
+![buoya42's GitHub stats](https://github-readme-stats.vercel.app/api?username=buoya42&show_icons=true&theme=tokyonight)
 <!--
 **buoya42/buoya42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
