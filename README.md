@@ -4,7 +4,7 @@
 ### > 💻 [Website](https://buoya42.github.io)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=25CFF7&width=435&lines=I+don't+touch+grass.)](https://git.io/typing-svg)
 
-[![buoya42's GitHub stats](https://github-readme-stats.vercel.app/api?username=buoya42&show_icons=true&theme=tokyonight)
+![buoya42's GitHub stats](https://github-readme-stats.vercel.app/api?username=buoya42&show_icons=true&theme=tokyonight)
 <!--
 **buoya42/buoya42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
