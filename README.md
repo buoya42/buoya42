@@ -1,3 +1,5 @@
+[![StandWithPalestine](https://github.com/buoya42/buoya42.github.io/blob/main/StandWithPalestine.svg)](https://www.islamic-relief.org.uk/giving/appeals/palestine/)
+
 # Hi there 👋
 ### > 🙃 About: He's a young programmer who started a 24/7 Minecraft server bot project in 2021, igniting his passion for website development and gaming.
 ### > 😄 Pronous: He/Him
